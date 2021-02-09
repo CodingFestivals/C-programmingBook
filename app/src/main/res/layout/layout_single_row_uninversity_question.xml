@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="match_parent"
+    android:paddingTop="13dp"
+    android:paddingBottom="13dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="5dp"
+    android:background="@drawable/bg_listview_uq">
+    <ImageView
+        android:id="@+id/id_iv_uq"
+        android:src="@drawable/up_arroww"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="10dp"/>
+    <TextView
+        android:id="@+id/id_tv_uq"
+        android:layout_gravity="center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="Utsab Roy"/>
+
+</LinearLayout>

@@ -1,0 +1,268 @@
+<resources>
+    <string-array name="parent">
+        <item>1. Basic Idea</item>
+        <item>2. Overview Of C Language</item>
+        <item>3. Basic Element</item>
+        <item>4. Datatype</item>
+        <item>5. Variable</item>
+        <item>6. Input &amp; Output Function</item>
+        <item>7. Operator &amp; Expression</item>
+        <item>8. Decision &amp; Branching</item>
+        <item>9. Decision &amp; Looping</item>
+        <item>10. Array</item>
+        <item>11. Character Array(String)</item>
+        <item>12. Function</item>
+        <item>13. Recursive Function</item>
+        <item>14. Pointer</item>
+        <item>15. Structure &amp; Union</item>
+        <item>16. Dynamic Memory</item>
+        <item>17. File Operation</item>
+        <item>18. Preprocessor Directives</item>
+    </string-array>
+    <string-array name="child1">
+        <item> What is program?</item>
+        <item> What is programming?</item>
+        <item> What is programming language?</item>
+        <item> Importance of c?</item>
+        <item> Future in c language?</item>
+        <item> Compiler &amp; Interpreter?</item>
+    </string-array>
+    <string-array name="child2">
+        <item>History of c language?</item>
+        <item>Basic structure  of c?</item>
+        <item>First program hellow world?</item>
+    </string-array>
+    <string-array name="child3">
+        <item>Token</item>
+        <item>Keyword</item>
+        <item>Identifier</item>
+        <item>Format specifier</item>
+        <item>Constant</item>
+    </string-array>
+    <string-array name="child4">
+        <item>What is data type?</item>
+        <item>Character data type</item>
+        <item>Integer data type</item>
+        <item>Float data type</item>
+        <item>Double data type</item>
+        <item>Qualifier or modifier</item>
+    </string-array>
+    <string-array name="child5">
+        <item>What is variable?</item>
+        <item>Rules of declare variable</item>
+        <item>Local variable</item>
+        <item>Static variable</item>
+        <item>Global variable</item>
+    </string-array>
+    <string-array name="child6">
+        <item>scanf()</item>
+        <item>printf()</item>
+    </string-array>
+    <string-array name="child7">
+        <item>Introduction</item>
+        <item>Arithmatic(Binary)</item>
+        <item>Relational(Binary)</item>
+        <item>Logical(Binary)</item>
+        <item>Assignment(Binary)</item>
+        <item>Arithmatic(Binary)</item>
+        <item>Increament Decrement(Unary)</item>
+        <item>Conditional(Ternary)</item>
+        <item>Bitwise(Binary)</item>
+        <item>Special</item>
+    </string-array>
+    <string-array name="child8">
+        <item>if</item>
+        <item>if-else</item>
+        <item>if-else-if</item>
+        <item>switch</item>
+    </string-array>
+    <string-array name="child9">
+        <item>What is loop?</item>
+        <item>for loop</item>
+        <item>while loop</item>
+        <item>do-while loop</item>
+        <item>continue &amp; break</item>
+        <item>goto</item>
+    </string-array>
+    <string-array name="child10">
+        <item>What is array?</item>
+        <item>One Dimensional</item>
+        <item>Two Dimensional</item>
+    </string-array>
+    <string-array name="child11">
+        <item>What is string?</item>
+        <item>One Dimensional(String)</item>
+        <item>Two Dimensional(String Array)</item>
+    </string-array>
+    <string-array name="child12">
+        <item>What is function</item>
+        <item>Declare &amp; Call &amp; Define</item>
+        <item>No arg &amp; No return</item>
+        <item>No arg &amp; With return</item>
+        <item>With arg &amp; No return</item>
+        <item>With arg &amp; With return</item>
+    </string-array>
+    <string-array name="child13">
+        <item>What is recursive function?</item>
+        <item>Basic rule for write any recursive?</item>
+        <item>How value return?</item>
+        <item>Types of recursion?</item>
+    </string-array>
+    <string-array name="child14">
+        <item>What is pointer?</item>
+        <item>How to declare pointer?</item>
+        <item>Array of pointers</item>
+        <item>Null pointer</item>
+        <item>Dangling pointer</item>
+    </string-array>
+    <string-array name="child15">
+        <item>Structure in c</item>
+        <item>Declare structure</item>
+        <item>Access structure member</item>
+        <item>Array of structure</item>
+        <item>How to pass structure</item>
+    </string-array>
+    <string-array name="child16">
+        <item>What is DMA?</item>
+        <item>malloc</item>
+        <item>calloc</item>
+        <item>realloc</item>
+    </string-array>
+    <string-array name="child17">
+        <item>Introduction to file.</item>
+        <item>Open &amp; close file.</item>
+        <item>Input &amp; Output in file</item>
+    </string-array>
+    <string-array name="child18">
+        <item>C preprocessor</item>
+        <item>Macro Expansion</item>
+        <item>How a program run?</item>
+    </string-array>
+
+    <string-array name="universityquestionmark2">
+        <item>1. Introduction</item>
+        <item>2. An Example Of C Program</item>
+        <item>3. Variable &amp; Operators</item>
+        <item>4. Input &amp; Output</item>
+        <item>5. Flow Of Control</item>
+        <item>6. Function</item>
+        <item>7. Scope,Blocks &amp; Variables</item>
+        <item>8. Arrays,Pointer &amp; String</item>
+        <item>9. Structure &amp; Union</item>
+        <item>10. Files</item>
+        <item>11. Preprocessor Directives</item>
+    </string-array>
+    <string-array name="universityquestionmark4">
+        <item>1. Introduction</item>
+        <item>2. An Example Of C Program</item>
+        <item>3. Variable &amp; Operators</item>
+        <item>4. Input &amp; Output</item>
+        <item>5. Flow Of Control</item>
+        <item>6. Function</item>
+        <item>7. Scope,Blocks &amp; Variables</item>
+        <item>8. Arrays,Pointer &amp; String</item>
+        <item>9. Structure &amp; Union</item>
+        <item>10. Files</item>
+        <item>11. Preprocessor Directives</item>
+    </string-array>
+    <string-array name="universityquestionmark10">
+        <item>1. Introduction</item>
+        <item>2. An Example Of C Program</item>
+        <item>3. Variable &amp; Operators</item>
+        <item>4. Input &amp; Output</item>
+        <item>5. Flow Of Control</item>
+        <item>6. Function</item>
+        <item>7. Scope,Blocks &amp; Variables</item>
+        <item>8. Arrays,Pointer &amp; String</item>
+        <item>9. Structure &amp; Union</item>
+        <item>10. Files</item>
+        <item>11. Preprocessor Directives</item>
+    </string-array>
+    <string-array name="benglibookname">
+        <item>1. Introduction</item>
+        <item>2. An Example Of C Program</item>
+        <item>3. Variable &amp; Operators</item>
+        <item>4. Input &amp; Output</item>
+        <item>5. Flow Of Control</item>
+        <item>6. Function</item>
+        <item>7. Scope,Blocks &amp; Variables</item>
+        <item>8. Arrays,Pointer &amp; String</item>
+    </string-array>
+    <string-array name="benglibookdesc">
+        <item>1. Introduction</item>
+        <item>2. An Example Of C Program</item>
+        <item>3. Variable &amp; Operators</item>
+        <item>4. Input &amp; Output</item>
+        <item>5. Flow Of Control</item>
+        <item>6. Function</item>
+        <item>7. Scope,Blocks &amp; Variables</item>
+        <item>8. Arrays,Pointer &amp; String</item>
+    </string-array>
+    <string-array name="englishbookname">
+        <item>1. Introduction</item>
+        <item>2. An Example Of C Program</item>
+        <item>3. Variable &amp; Operators</item>
+        <item>4. Input &amp; Output</item>
+        <item>5. Flow Of Control</item>
+        <item>6. Function</item>
+        <item>7. Scope,Blocks &amp; Variables</item>
+        <item>8. Arrays,Pointer &amp; String</item>
+        <item>9. Structure &amp; Union</item>
+        <item>10. Files</item>
+        <item>11. Preprocessor Directives</item>
+    </string-array>
+    <string-array name="englishbookdesc">
+        <item>1. Introduction</item>
+        <item>2. An Example Of C Program</item>
+        <item>3. Variable &amp; Operators</item>
+        <item>4. Input &amp; Output</item>
+        <item>5. Flow Of Control</item>
+        <item>6. Function</item>
+        <item>7. Scope,Blocks &amp; Variables</item>
+        <item>8. Arrays,Pointer &amp; String</item>
+        <item>9. Structure &amp; Union</item>
+        <item>10. Files</item>
+        <item>11. Preprocessor Directives</item>
+    </string-array>
+    <string-array name="hindibookname">
+        <item>1. Introduction</item>
+        <item>2. An Example Of C Program</item>
+        <item>3. Variable &amp; Operators</item>
+        <item>4. Input &amp; Output</item>
+        <item>5. Flow Of Control</item>
+        <item>6. Function</item>
+        <item>7. Scope,Blocks &amp; Variables</item>
+        <item>8. Arrays,Pointer &amp; String</item>
+        <item>9. Structure &amp; Union</item>
+        <item>10. Files</item>
+        <item>11. Preprocessor Directives</item>
+    </string-array>
+    <string-array name="hindibookdesc">
+        <item>1. Introduction</item>
+        <item>2. An Example Of C Program</item>
+        <item>3. Variable &amp; Operators</item>
+        <item>4. Input &amp; Output</item>
+        <item>5. Flow Of Control</item>
+        <item>6. Function</item>
+        <item>7. Scope,Blocks &amp; Variables</item>
+        <item>8. Arrays,Pointer &amp; String</item>
+        <item>9. Structure &amp; Union</item>
+        <item>10. Files</item>
+        <item>11. Preprocessor Directives</item>
+    </string-array>
+    <string name="id_intro">
+        #include&lt;stdio.h&gt;\n
+        int main(){\n
+            int i,a=54,b=24,gcd;\n
+            int minValue=(a&lt;b)?a:b;\n
+            for(i=1;i&lt;=minValue;i++){\n
+                if(a%i==0 &amp;&amp; b%i==0){\n
+                    gcd=i;\n
+                }\n
+            }\n
+            printf("Your GCD Is %d",gcd);\n
+        }\n
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

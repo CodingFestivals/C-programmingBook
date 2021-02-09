@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro">
+        #include&lt;stdio.h&gt;
+        int main(){
+            int i,a=54,b=24,gcd;
+            int minValue=(a&lt;b)?a:b;
+            for(i=1;i&lt;=minValue;i++){
+                if(a%i==0 &amp;&amp; b%i==0){
+                    gcd=i;
+                }
+            }
+            printf("Your GCD Is %d",gcd);
+        }
+    </string>
+</resources>

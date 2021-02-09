@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/screen1"
+    tools:context=".Activity_UniversityQuestion"
+    android:fillViewport="true">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:padding="5dp"
+            android:layout_marginTop="2dp"
+            android:background="@color/colorAccent"
+            android:textColor="#fff"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2 Mark Question"
+            android:textSize="20sp"
+            android:gravity="center" />
+        <ListView
+            android:id="@+id/id_lv_m2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </ListView>
+        <TextView
+            android:padding="5dp"
+            android:id="@+id/id_tv_m4"
+            android:background="@color/colorAccent"
+            android:textColor="#fff"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="4 Mark Question"
+            android:textSize="20sp"
+            android:gravity="center"
+            />
+        <ListView
+            android:id="@+id/id_lv_m4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </ListView>
+        <TextView
+            android:padding="5dp"
+            android:background="@color/colorAccent"
+            android:textColor="#fff"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="8 Mark Question"
+            android:textSize="20sp"
+            android:gravity="center"
+            />
+        <ListView
+            android:id="@+id/id_lv_m8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </ListView>
+    </LinearLayout>
+</ScrollView>
